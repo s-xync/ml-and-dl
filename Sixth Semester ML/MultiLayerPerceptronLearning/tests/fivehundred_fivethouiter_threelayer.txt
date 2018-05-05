@@ -1,0 +1,60 @@
+kilgrave (master *) MultiLayerPerceptronLearning $ python Init.py TrainingData.txt TrainingTarget.txt TestingData.txt TestingTarget.txt
+What is the learning rate? 0.1
+How many iterations? 5000
+How many HIDDEN LAYERS? 3
+How many Neurons Hidden Layer 1 : 8
+How many Neurons Hidden Layer 2 : 7 
+How many Neurons Hidden Layer 3 : 6
+Error at iteration 99 is 0.0836844352336
+Error at iteration 199 is 0.0802353672074
+Error at iteration 299 is 0.0793258772931
+Error at iteration 399 is 0.0789275208629
+Error at iteration 499 is 0.0787103619703
+Error at iteration 599 is 0.078576679138
+Error at iteration 699 is 0.078487481428
+Error at iteration 799 is 0.0784244221121
+Error at iteration 899 is 0.0783778511921
+Error at iteration 999 is 0.0783422624613
+Error at iteration 1099 is 0.0783143055964
+Error at iteration 1199 is 0.0782918332926
+Error at iteration 1299 is 0.0782734145763
+Error at iteration 1399 is 0.0782580651394
+Error at iteration 1499 is 0.0782450886535
+Error at iteration 1599 is 0.0782339803062
+Error at iteration 1699 is 0.0782243662987
+Error at iteration 1799 is 0.078215964692
+Error at iteration 1899 is 0.0782085593457
+Error at iteration 1999 is 0.0782019821396
+Error at iteration 2099 is 0.0781961005833
+Error at iteration 2199 is 0.0781908090159
+Error at iteration 2299 is 0.0781860222485
+Error at iteration 2399 is 0.0781816709019
+Error at iteration 2499 is 0.0781776979408
+Error at iteration 2599 is 0.0781740560652
+Error at iteration 2699 is 0.0781707057246
+Error at iteration 2799 is 0.0781676135909
+Error at iteration 2899 is 0.0781647513732
+Error at iteration 2999 is 0.0781620948899
+Error at iteration 3099 is 0.078159623335
+Error at iteration 3199 is 0.0781573186967
+Error at iteration 3299 is 0.0781551652896
+Error at iteration 3399 is 0.0781531493791
+Error at iteration 3499 is 0.0781512588758
+Error at iteration 3599 is 0.0781494830867
+Error at iteration 3699 is 0.0781478125104
+Error at iteration 3799 is 0.0781462386685
+Error at iteration 3899 is 0.0781447539653
+Error at iteration 3999 is 0.078143351571
+Error at iteration 4099 is 0.0781420253237
+Error at iteration 4199 is 0.0781407696463
+Error at iteration 4299 is 0.0781395794769
+Error at iteration 4399 is 0.0781384502086
+Error at iteration 4499 is 0.0781373776387
+Error at iteration 4599 is 0.0781363579245
+Error at iteration 4699 is 0.0781353875453
+Error at iteration 4799 is 0.0781344632693
+Error at iteration 4899 is 0.0781335821246
+Error at iteration 4999 is 0.0781327413744
+The accuracy is 0.44
+Running Time : 232.154844999
+

@@ -1,0 +1,91 @@
+Trial No = 1 train/test=70/30
+K-Means
+Confusion Matrix
+tn = 67987 fp = 17291
+fn = 82 tp = 83
+Scores
+Accuracy --> 0.796671465187
+Precison --> 0.0047772533671
+Recall --> 0.50303030303
+F1 --> 0.00946462170021
+
+K-Nearest Neighbours
+Confusion Matrix
+tn = 85264 fp = 14
+fn = 51 tp = 114
+Scores
+Accuracy --> 0.999239258921
+Precison --> 0.890625
+Recall --> 0.690909090909
+F1 --> 0.778156996587
+***********************************************************************
+Trial No = 2 train/test=95/05
+K-Means
+Confusion Matrix
+tn = 11317 fp = 2902
+fn = 8 tp = 14
+Scores
+Accuracy --> 0.795660417106
+Precison --> 0.00480109739369
+Recall --> 0.636363636364
+F1 --> 0.00953029271613
+
+K-Nearest Neighbours
+Confusion Matrix
+tn = 14219 fp = 0
+fn = 2 tp = 20
+Scores
+Accuracy --> 0.999859560424
+Precison --> 1.0
+Recall --> 0.909090909091
+F1 --> 0.952380952381
+
+Time Taken : 23.7966589928seconds
+***********************************************************************
+Trial No = 3 train/test=60/40
+K-Means
+Confusion Matrix
+tn = 90486 fp = 23224
+fn = 106 tp = 107
+Scores
+Accuracy --> 0.795212555849
+Precison --> 0.004586172903
+Recall --> 0.50234741784
+F1 --> 0.00908936459395
+
+K-Nearest Neighbours
+Confusion Matrix
+tn = 113689 fp = 21
+fn = 74 tp = 139
+Scores
+Accuracy --> 0.999166103421
+Precison --> 0.86875
+Recall --> 0.652582159624
+F1 --> 0.745308310992
+
+Time Taken : 122.94383812seconds
+***********************************************************************
+K-Means Testing Trail train/test=70/30
+K-Means gets worse because of changing the criteria for reassigning(to test if K-Means classification is working as expected)
+K-Means
+Confusion Matrix
+tn = 17279 fp = 68006
+fn = 93 tp = 65
+Scores
+Accuracy --> 0.202989127254
+Precison --> 0.000954885340306
+Recall --> 0.411392405063
+F1 --> 0.00190534816574
+
+K-Nearest Neighbours
+Confusion Matrix
+tn = 85269 fp = 16
+fn = 37 tp = 121
+Scores
+Accuracy --> 0.999379703428
+Precison --> 0.883211678832
+Recall --> 0.76582278481
+F1 --> 0.820338983051
+
+Time Taken : 101.961412907seconds
+***********************************************************************

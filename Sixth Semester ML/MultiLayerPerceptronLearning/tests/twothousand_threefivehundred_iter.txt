@@ -1,0 +1,46 @@
+kilgrave (master *) MultiLayerPerceptronLearning $ python Init.py TrainingData.txt TrainingTarget.txt TestingData.txt TestingTarget.txt
+What is the learning rate? 0.9999
+How many iterations? 3500
+How many HIDDEN LAYERS? 2
+How many Neurons Hidden Layer 1 : 12
+How many Neurons Hidden Layer 2 : 6
+Error at iteration 99 is 0.0787360893764
+/home/kilgrave/MyLife/6th-sem/Machine Learning/MultiLayerPerceptronLearning/PerceptronLearning.py:56: RuntimeWarning: overflow encountered in exp
+  return 1/(1+np.exp(-x))
+Error at iteration 199 is 0.078423635375
+Error at iteration 299 is 0.0783468539842
+Error at iteration 399 is 0.0783104069567
+Error at iteration 499 is 0.0782887666101
+Error at iteration 599 is 0.0782746695982
+Error at iteration 699 is 0.0782649651487
+Error at iteration 799 is 0.07825796578
+Error at iteration 899 is 0.0782526999606
+Error at iteration 999 is 0.0782485926376
+Error at iteration 1099 is 0.0782452936165
+Error at iteration 1199 is 0.0782425814592
+Error at iteration 1299 is 0.0782403101224
+Error at iteration 1399 is 0.078238379279
+Error at iteration 1499 is 0.0782367174682
+Error at iteration 1599 is 0.0782352722038
+Error at iteration 1699 is 0.078234003937
+Error at iteration 1799 is 0.078232882227
+Error at iteration 1899 is 0.0782318832468
+Error at iteration 1999 is 0.0782422817962
+Error at iteration 2099 is 0.0782413389344
+Error at iteration 2199 is 0.0782459508043
+Error at iteration 2299 is 0.0782545327112
+Error at iteration 2399 is 0.0782534337243
+Error at iteration 2499 is 0.0782523811535
+Error at iteration 2599 is 0.0782671328338
+Error at iteration 2699 is 0.0782660391396
+Error at iteration 2799 is 0.0782649804915
+Error at iteration 2899 is 0.0782639563821
+Error at iteration 2999 is 0.0782750835343
+Error at iteration 3099 is 0.0782742762091
+Error at iteration 3199 is 0.0782735007595
+Error at iteration 3299 is 0.0782727547462
+Error at iteration 3399 is 0.0782720029115
+Error at iteration 3499 is 0.0782653797889
+The accuracy is 0.5
+Running Time : 572.803772926
+
